@@ -1,5 +1,12 @@
-[{
-  "id": 1,
-  "title": "hello",
-  "completed":false
-}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+      "completed":false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
